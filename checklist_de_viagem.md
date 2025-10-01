@@ -10,3 +10,15 @@ Checklist de viagem - ViajaBem
 - [ ] Medicamentos pessoais 
 - [ ] Kit primeiros socorros
 - [ ] Protetor solar
+
+## Vestiário
+- [ ] Roupas por clima
+- [ ] Calçados confortáveis
+- [ ] Roupas de dormir
+- [ ] Acessórios (óculos/chapéu)
+
+## Tecnologia
+- [ ] Carregadores portáteis
+- [ ] Adaptadores de tomada
+- [ ] Power bank
+- [ ] Cabos USB
